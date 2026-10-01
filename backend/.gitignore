@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# PDF files
+*.pdf
+
+# Postman Collection
+postman
